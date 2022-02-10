@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: red;
+    font-family: 'Playball', cursive;
+}
+.heading{
+    width: 100%;
+    text-align: center;
+}
+.header_div{
+    background-color: black;
+    color: cyan;
+}
+.header_div p{
+    font-family: 'Dongle', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: Bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: Bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: olive;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #fbf6d9;
+}
